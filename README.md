@@ -1,1 +1,1 @@
-# challenge-python-datascience
+El proyecto tiene el objetivo de analizar los datos de tiendas y sus flujos de venta para sacar conclusiones, buscando especfíciamente la tienda con menor rendimiento. El análisis se basa en los siguientes puntos: Facturación total por tienda, ventas por categoría, calificación promedio, productos más y menos vendidos, y por último, costo de envío promedio de cada tienda.
